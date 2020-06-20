@@ -112,7 +112,7 @@ function showdate(date)
 { 
 
   document.getElementById((IMG._date).slice(-2)).className ='w3-black w3-large';
-  var n =  new Date();
+  var n =  new Date(2020,5,19, 12, 0, 0, 0);
   var mili = n.getTime();
   n =  new Date(mili+date*(24*3600*1000)); 
   var y = n.getUTCFullYear();
@@ -147,7 +147,7 @@ function initshow()
   //window.IMG = new IMG("OUT/plot/", "dom01", "20200118", "cloudlow", "09", ".png",700,400)
 
   bstr= "b"+origtime;
-  var n =  new Date();
+  var n =  new Date(2020,5,19, 12, 0, 0, 0);
   var y = n.getUTCFullYear();
   var m = n.getUTCMonth() + 1;
   m = ("0" + m).slice(-2);

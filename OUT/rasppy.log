@@ -1,0 +1,377 @@
+
+****WELCOME TO RASPURI****
+==========================================================================
+   RASPURI v2. github.com/oriolcervello/raspuri
+   Oriol Cervelló i Nogués, ( raspuri [at] protonmail.com ).
+   Copyright (C) 2019+ by Oriol Cervelló i Nogués
+==========================================================================
+ License: GNU GPLv3.0
+ Copyright (C) 2019  Oriol Cervelló
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+==========================================================================
+==========================================================================
+****RASPURI starting at: 2020-06-18 19:23:03 TZ: CET-> 2h****
+****Processings scheduled: 3 ****
+****Processing round : 1 Starts at:2020-06-19 09:00:00Z  Ends at:2020-06-19 16:00:00Z  Round of: 7h****
+****Processing round : 2 Starts at:2020-06-20 09:00:00Z  Ends at:2020-06-20 16:00:00Z  Round of: 7h****
+****Processing round : 3 Starts at:2020-06-21 09:00:00Z  Ends at:2020-06-21 16:00:00Z  Round of: 7h****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f021****
+****Downloading 1 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f022****
+****Downloading 2 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f023****
+****Downloading 3 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f024****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f025****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f026****
+****Downloading 6 files****
+**** 3 files downloaded out of 24****
+****Downloading 3 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f027****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f028****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f045****
+****Downloading 6 files****
+**** 4 files downloaded out of 24****
+****Waiting for files to downlaod 75 s****
+****Downloading 6 files****
+**** 9 files downloaded out of 24****
+****Downloading 0 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f046****
+****Downloading 1 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f047****
+****Downloading 2 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f048****
+****Downloading 3 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f049****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f050****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f051****
+****Downloading 6 files****
+**** 11 files downloaded out of 24****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f052****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f069****
+****Downloading 6 files****
+**** 13 files downloaded out of 24****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f070****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f071****
+****Downloading 6 files****
+**** 14 files downloaded out of 24****
+****Waiting for files to downlaod 75 s****
+****Downloading 6 files****
+**** 19 files downloaded out of 24****
+****Downloading 0 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f072****
+****Downloading 1 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f073****
+****Downloading 2 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f074****
+****Downloading 3 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f075****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f076****
+****Downloading 5 files****
+**** 21 files downloaded out of 24****
+****Waiting for files to downlaod 75 s****
+****Downloading 5 files****
+**** 24 files downloaded out of 24****
+****Downloading 5 files****
+****All files downloadad, continuing...****
+****Processing starting at: 2020-06-18 19:34:22 ****
+****Updating namelist dates****
+****Running geogrid.exe****
+****SUCCESFUL geogrid.exe****
+****Running ungrib.exe****
+****SUCCESFUL ungrib.exe****
+****Running metgrid.exe****
+****SUCCESFUL metgrid.exe****
+****Running real.exe****
+****SUCCESFUL real.exe****
+****Running wrf.exe****
+****SUCCESFUL wrf.exe****
+****Making postprocessing ****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****Updating namelist dates****
+****Running geogrid.exe****
+****SUCCESFUL geogrid.exe****
+****Running ungrib.exe****
+****SUCCESFUL ungrib.exe****
+****Running metgrid.exe****
+****SUCCESFUL metgrid.exe****
+****Running real.exe****
+****SUCCESFUL real.exe****
+****Running wrf.exe****
+****SUCCESFUL wrf.exe****
+****Making postprocessing ****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****Updating namelist dates****
+****Running geogrid.exe****
+****SUCCESFUL geogrid.exe****
+****Running ungrib.exe****
+****SUCCESFUL ungrib.exe****
+****Running metgrid.exe****
+****SUCCESFUL metgrid.exe****
+****Running real.exe****
+****SUCCESFUL real.exe****
+****Running wrf.exe****
+****SUCCESFUL wrf.exe****
+****Making postprocessing ****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****RASPURI ENDED, See u next run!****
+****Starting time:           2020-06-18 19:23:03 ****
+****Processing starting at:  2020-06-18 19:34:22 ****
+****Ending time:             2020-06-18 23:06:09 ****
+****WELCOME TO RASPURI****
+==========================================================================
+   RASPURI v2. github.com/oriolcervello/raspuri
+   Oriol Cervelló i Nogués, ( raspuri [at] protonmail.com ).
+   Copyright (C) 2019+ by Oriol Cervelló i Nogués
+==========================================================================
+ License: GNU GPLv3.0
+ Copyright (C) 2019  Oriol Cervelló
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+==========================================================================
+==========================================================================
+****RASPURI starting at: 2020-06-19 17:50:02 TZ: CET-> 2h****
+****Processings scheduled: 3 ****
+****Processing round : 1 Starts at:2020-06-20 09:00:00Z  Ends at:2020-06-20 16:00:00Z  Round of: 7h****
+****Processing round : 2 Starts at:2020-06-21 09:00:00Z  Ends at:2020-06-21 16:00:00Z  Round of: 7h****
+****Processing round : 3 Starts at:2020-06-22 09:00:00Z  Ends at:2020-06-22 16:00:00Z  Round of: 7h****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f021****
+****Downloading 1 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f022****
+****Downloading 2 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f023****
+****Downloading 3 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f024****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f025****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f026****
+****Downloading 6 files****
+**** 2 files downloaded out of 24****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f027****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f028****
+****Downloading 6 files****
+**** 4 files downloaded out of 24****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f045****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f046****
+****Downloading 6 files****
+**** 5 files downloaded out of 24****
+****Waiting for files to downlaod 75 s****
+****Downloading 6 files****
+**** 9 files downloaded out of 24****
+****Downloading 1 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f047****
+****Downloading 2 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f048****
+****Downloading 3 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f049****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f050****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f051****
+****Downloading 6 files****
+**** 12 files downloaded out of 24****
+****Downloading 3 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f052****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f069****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f070****
+****Downloading 6 files****
+**** 14 files downloaded out of 24****
+****Downloading 4 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f071****
+****Downloading 5 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f072****
+****Downloading 6 files****
+**** 15 files downloaded out of 24****
+****Waiting for files to downlaod 75 s****
+****Downloading 6 files****
+**** 20 files downloaded out of 24****
+****Downloading 0 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f073****
+****Downloading 1 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f074****
+****Downloading 2 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f075****
+****Downloading 3 files****
+****Calling ftp download for: gfs.t12z.pgrb2.0p25.f076****
+****Downloading 4 files****
+**** 21 files downloaded out of 24****
+****Waiting for files to downlaod 75 s****
+****Downloading 4 files****
+**** 24 files downloaded out of 24****
+****Downloading 4 files****
+****All files downloadad, continuing...****
+****Processing starting at: 2020-06-19 18:01:22 ****
+****Updating namelist dates****
+****Running geogrid.exe****
+****SUCCESFUL geogrid.exe****
+****Running ungrib.exe****
+****SUCCESFUL ungrib.exe****
+****Running metgrid.exe****
+****SUCCESFUL metgrid.exe****
+****Running real.exe****
+****SUCCESFUL real.exe****
+****Running wrf.exe****
+****SUCCESFUL wrf.exe****
+****Making postprocessing ****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****Updating namelist dates****
+****Running geogrid.exe****
+****SUCCESFUL geogrid.exe****
+****Running ungrib.exe****
+****SUCCESFUL ungrib.exe****
+****Running metgrid.exe****
+****SUCCESFUL metgrid.exe****
+****Running real.exe****
+****SUCCESFUL real.exe****
+****Running wrf.exe****
+****SUCCESFUL wrf.exe****
+****Making postprocessing ****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****Updating namelist dates****
+****Running geogrid.exe****
+****SUCCESFUL geogrid.exe****
+****Running ungrib.exe****
+****SUCCESFUL ungrib.exe****
+****Running metgrid.exe****
+****SUCCESFUL metgrid.exe****
+****Running real.exe****
+****SUCCESFUL real.exe****
+****Running wrf.exe****
+****SUCCESFUL wrf.exe****
+****Making postprocessing ****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****SUCCESFUL ploting****
+****RASPURI ENDED, See u next run!****
+****Starting time:           2020-06-19 17:50:02 ****
+****Processing starting at:  2020-06-19 18:01:22 ****
+****Ending time:             2020-06-19 21:32:49 ****

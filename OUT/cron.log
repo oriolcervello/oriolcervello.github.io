@@ -1,0 +1,839 @@
+
+Thu Jun 18 17:22:01 UTC 2020
+Cannot import USCOUNTIES and USSTATES without Cartopy installed.
+ Name of source model =>NCEP GFS Model                  
+ Name of source model =>NCEP GFS Model                  
+Note: The following floating-point exceptions are signalling: IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ starting wrf task            0  of            1
+ starting wrf task            6  of            7
+ starting wrf task            1  of            7
+ starting wrf task            2  of            7
+ starting wrf task            0  of            7
+ starting wrf task            5  of            7
+ starting wrf task            3  of            7
+ starting wrf task            4  of            7
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+ Name of source model =>NCEP GFS Model                  
+ Name of source model =>NCEP GFS Model                  
+Note: The following floating-point exceptions are signalling: IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ starting wrf task            0  of            1
+ starting wrf task            0  of            7
+ starting wrf task            1  of            7
+ starting wrf task            2  of            7
+ starting wrf task            3  of            7
+ starting wrf task            4  of            7
+ starting wrf task            5  of            7
+ starting wrf task            6  of            7
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+ Name of source model =>NCEP GFS Model                  
+ Name of source model =>NCEP GFS Model                  
+Note: The following floating-point exceptions are signalling: IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ starting wrf task            0  of            1
+ starting wrf task            0  of            7
+ starting wrf task            1  of            7
+ starting wrf task            2  of            7
+ starting wrf task            3  of            7
+ starting wrf task            4  of            7
+ starting wrf task            6  of            7
+ starting wrf task            5  of            7
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+Fri Jun 19 15:49:01 UTC 2020
+Cannot import USCOUNTIES and USSTATES without Cartopy installed.
+ Name of source model =>NCEP GFS Model                  
+ Name of source model =>NCEP GFS Model                  
+Note: The following floating-point exceptions are signalling: IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ starting wrf task            0  of            1
+ starting wrf task            4  of            7
+ starting wrf task            0  of            7
+ starting wrf task            1  of            7
+ starting wrf task            2  of            7
+ starting wrf task            3  of            7
+ starting wrf task            5  of            7
+ starting wrf task            6  of            7
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+ Name of source model =>NCEP GFS Model                  
+ Name of source model =>NCEP GFS Model                  
+Note: The following floating-point exceptions are signalling: IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ starting wrf task            0  of            1
+ starting wrf task            0  of            7
+ starting wrf task            1  of            7
+ starting wrf task            2  of            7
+ starting wrf task            3  of            7
+ starting wrf task            4  of            7
+ starting wrf task            5  of            7
+ starting wrf task            6  of            7
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+ Name of source model =>NCEP GFS Model                  
+ Name of source model =>NCEP GFS Model                  
+Note: The following floating-point exceptions are signalling: IEEE_OVERFLOW_FLAG IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ starting wrf task            0  of            1
+ starting wrf task            1  of            7
+ starting wrf task            2  of            7
+ starting wrf task            4  of            7
+ starting wrf task            5  of            7
+ starting wrf task            6  of            7
+ starting wrf task            0  of            7
+ starting wrf task            3  of            7
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1483: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1484: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1132: RuntimeWarning: invalid value encountered in less
+  under = np.nonzero(lev < self.zmin)[0]
+/root/.linuxbrew/Cellar/python/3.7.7_1/lib/python3.7/site-packages/matplotlib/contour.py:1134: RuntimeWarning: invalid value encountered in greater
+  over = np.nonzero(lev > self.zmax)[0]
